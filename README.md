@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 ![Profile views](https://komarev.com/ghpvc/?username=devocka693&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
